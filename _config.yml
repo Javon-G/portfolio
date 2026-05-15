@@ -2,7 +2,10 @@ theme: minima
 title: Javon-G Live Portfolio
 description: Comprehensive outlook on my skills, projects, and goals
 author: Javon Garcia
-
+  
+minima:
+  hide_site_feed_link: true
+  
 header_pages:
   - index.md
   - about.md
