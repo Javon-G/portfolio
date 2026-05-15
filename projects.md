@@ -6,13 +6,13 @@ permalink: /projects/
 
 ## 💻 My Projects
 
-### 🔹 First Full-Stack App
-- Currently in progress
-- Will include frontend + backend + database
+### 🚀 Portfolio Website
+- Built with GitHub Pages
+- Uses Jekyll and Markdown
+- Includes blog + project pages
+- Continuously improving
 
-### 🔹 GitHub Practice Repo
-- Practicing pull requests, workflows, and CI
-
-### 🔹 Blog Site (This Website)
-- Built using GitHub Pages and Jekyll
-
+### 🔧 GitHub Practice Repo
+- Practiced pull requests
+- Learned merge conflicts
+- Set up GitHub Actions workflow
