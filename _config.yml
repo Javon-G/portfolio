@@ -3,8 +3,11 @@ title: Javon-G Live Portfolio
 description: Comprehensive outlook on my skills, projects, and goals
 author: Javon Garcia
   
-minima:
-  hide_site_feed_link: true
+plugins:
+  - jekyll-feed
+
+feed:
+  disable: true
   
 header_pages:
   - index.md
