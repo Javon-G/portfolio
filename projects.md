@@ -16,5 +16,3 @@ permalink: /projects/
 ### 🔹 Blog Site (This Website)
 - Built using GitHub Pages and Jekyll
 
-## TEST
-If you see this styled properly, layout is working.
